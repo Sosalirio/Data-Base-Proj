@@ -26,9 +26,9 @@
 
         <table>
             <tr>
-                <th>GID</th>
-                <th>Generation</th>
-                
+                <th>RID</th>
+                <th>Region</th>
+               
             </tr>
 
             <?php 
@@ -38,8 +38,8 @@
             ?>
             <tr>
 
-                <td><?php echo $rows['GID'];?></td>
-                <td><?php echo $rows['Generation'];?></td>
+                <td><?php echo $rows['RID'];?></td>
+                <td><?php echo $rows['Region'];?></td>
                 
             </tr>
             <?php
