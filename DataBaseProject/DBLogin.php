@@ -1,6 +1,6 @@
 <?php
-$user = 'ariecs';
-$password = 'Mi33Km34';
+$user = 'user';
+$password = 'password';
 
 $database = 'S224DB_arielcs';
 
