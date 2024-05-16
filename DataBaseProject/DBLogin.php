@@ -2,7 +2,7 @@
 $user = 'user';
 $password = 'password';
 
-$database = 'S224DB_arielcs';
+$database = 'DB_Name';
 
 $servername='localhost:3306';
 $mysqli = new mysqli($servername, $user,
